@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load trained pipeline
-model = joblib.load("Your model here")
+model = joblib.load("pipeline_model.joblib")
 
 # Prediction function
 def predict_income(age, workclass, fnlwgt, education, educational_num, marital_status,
