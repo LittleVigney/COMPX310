@@ -1,0 +1,61 @@
+ID,"56947: 
+Hours studied per week (e.g., 6)
+
+","56948: 
+Attendance percentage (e.g., 60)
+
+","56949: Average sleep hours per day (e.g., 6)","56950: Average daily social media use in hours (e.g., 2)","56951: Midterm score in % 
+
+
+
+","56952: 
+Interest in Machine Learning
+
+",56953: Confidence in programming,"56954: 
+Hours of exercise per week (e.g., 6)
+
+","56955: 
+Group work preference
+
+",56956: English understanding level,56957: Favorite study method,"56958: 
+Average caffeine drinks per day (e.g., 3)",56960: Grade Expectations,Target grade label
+1,7,95,8,2,75,medium,low,5,Small Group,Intermediate,Visual,1,B,Pass if i work hard from now.
+2,8,95,8,3,80,medium,medium,2,Small Group,Intermediate,Hands-on,2,B,Pass if i work hard from now.
+3,20,100,6,2,40,medium,low,2,Small Group,Intermediate,Visual,2,A,Definitely Pass
+4,7,100,7.5,4,95,high,high,3,Small Group,Advance,Hands-on,1,A,Definitely Pass
+5,9,100,5,5,100,high,high,3,Individual,Advance,Auditory,1,A,Definitely Pass
+6,8,90,7,3,30,medium,medium,5,Small Group,Intermediate,Hands-on,0,C,Probably Fail if i don't work hard.
+7,10,95,7,3,60,medium,medium,5,Small Group,Intermediate,Visual,0,A,Definitely Pass
+8,6,90,5,2,80,medium,medium,8,Large Group,Intermediate,Auditory,5,C,Not sure
+9,5,50,7,5,70,medium,medium,4,Small Group,Intermediate,Hands-on,1,C,Pass if i work hard from now.
+10,21,85,7,2,80,high,medium,7,Individual,Intermediate,Hands-on,1,A,Definitely Pass
+11,8,100,8,4,75,medium,medium,6,Small Group,Advance,Hands-on,1,A,Probably Pass
+12,10,100,7,3,75,high,medium,2,Small Group,Intermediate,Hands-on,0,A,Pass if i work hard from now.
+13,7,100,7,6,90,high,medium,7,Large Group,Advance,Hands-on,1,A,Definitely Pass
+14,20,100,5,5,90,high,medium,4,Individual,Intermediate,Hands-on,1,A,Definitely Pass
+15,6,97,8,2,75,medium,medium,3,Large Group,Intermediate,Visual,0.5,A,Definitely Pass
+16,7,90,7,3,60,medium,medium,7,Small Group,Beginner,Hands-on,0,B,Pass if i work hard from now.
+17,8,100,8,4,60,medium,medium,1,Small Group,Intermediate,Hands-on,1,B,Probably Pass
+18,8,100,7,8,80,medium,low,1,Individual,Intermediate,Visual,1,A,Probably Pass
+19,30,100,5,7,60,medium,medium,6,Individual,Intermediate,Hands-on,1,A,Definitely Pass
+20,20,90,9,3,80,low,low,8,Individual,Beginner,Visual,0,A,Probably Pass
+21,10,100,6,3,77,medium,medium,7,Small Group,Intermediate,Visual,2,A,Definitely Pass
+22,10,99,6,1,70,medium,medium,10,Small Group,Beginner,Auditory,2,B,Pass if i work hard from now.
+23,10,100,5,2,100,high,high,6,Small Group,Intermediate,Hands-on,0,A,Definitely Pass
+24,30,100,6,4,65,medium,low,0,Individual,Intermediate,Auditory,0,C,Probably Pass
+25,8,90,7,1.5,75,high,medium,2,Small Group,Advance,Hands-on,1,B,Pass if i work hard from now.
+26,30,90,7,4,90,high,high,7,Individual,Intermediate,Visual,0,A,Definitely Pass
+27,60,100,8,3,82,medium,medium,2,Small Group,Intermediate,Hands-on,0,A,Definitely Pass
+28,6,90,8,3,70,high,medium,10,Individual,Intermediate,Visual,1,B,Probably Fail if i don't work hard.
+29,7,100,8,10,70,medium,medium,5,Small Group,Intermediate,Auditory,0,A,Probably Pass
+30,8,80,8,1,70,medium,medium,3,Individual,Beginner,Hands-on,1,B,Pass if i work hard from now.
+31,7,100,7,6,90,high,high,3,Small Group,Intermediate,Visual,0,A,Definitely Pass
+32,15,95,8,1,90,high,high,5,Individual,Intermediate,Visual,0,A,Definitely Pass
+33,14,80,7,2,80,medium,medium,6,Small Group,Beginner,Visual,3,A,Definitely Pass
+34,7,100,6,7,85,high,medium,5,Small Group,Advance,Hands-on,0,A,Probably Pass
+35,10,100,7,4,90,high,medium,2,Small Group,Intermediate,Visual,0,A,Pass if i work hard from now.
+36,6,80,6,3,80,medium,medium,6,Small Group,Advance,Auditory,2,B,Definitely Pass
+37,6,100,6,2,89,medium,medium,6,Individual,Pro,Auditory,1,A,Definitely Pass
+38,4,100,6,3,90,high,high,4,Individual,Pro,Hands-on,2,A,Definitely Pass
+39,8,90,8,7,70,medium,medium,3,Large Group,Advance,Visual,0,A,Pass if i work hard from now.
+40,12,95,5.5,2,80,high,medium,12,Individual,Pro,Visual,3,A,Definitely Pass
